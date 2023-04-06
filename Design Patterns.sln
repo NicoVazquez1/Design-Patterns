@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{A76EF6B9-1D84-4479-BB74-13DA3F6DDED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{4C6064C6-FFFB-4AA8-8FA5-3D2D125D96BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer - Weather station", "Observer - Weather station\Observer - Weather station.csproj", "{5F005EB9-DB39-4514-9DE2-AF30356CC142}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DF89BB1-5108-4F52-90C6-0508F2F035AF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator - Strategy_Robots", "Decorator - Robots\Decorator - Strategy_Robots.csproj", "{6A65FCAF-58A6-4EA3-A838-4504562FF7D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory - Chocolate factory", "Factory - Builder - FastFood\Factory - Chocolate factory.csproj", "{6788CA5E-2BBE-4917-8B8F-F1C666FB0EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76EF6B9-1D84-4479-BB74-13DA3F6DDED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76EF6B9-1D84-4479-BB74-13DA3F6DDED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76EF6B9-1D84-4479-BB74-13DA3F6DDED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76EF6B9-1D84-4479-BB74-13DA3F6DDED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C6064C6-FFFB-4AA8-8FA5-3D2D125D96BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6064C6-FFFB-4AA8-8FA5-3D2D125D96BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6064C6-FFFB-4AA8-8FA5-3D2D125D96BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6064C6-FFFB-4AA8-8FA5-3D2D125D96BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F005EB9-DB39-4514-9DE2-AF30356CC142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F005EB9-DB39-4514-9DE2-AF30356CC142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F005EB9-DB39-4514-9DE2-AF30356CC142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F005EB9-DB39-4514-9DE2-AF30356CC142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A65FCAF-58A6-4EA3-A838-4504562FF7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A65FCAF-58A6-4EA3-A838-4504562FF7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A65FCAF-58A6-4EA3-A838-4504562FF7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A65FCAF-58A6-4EA3-A838-4504562FF7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6788CA5E-2BBE-4917-8B8F-F1C666FB0EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6788CA5E-2BBE-4917-8B8F-F1C666FB0EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6788CA5E-2BBE-4917-8B8F-F1C666FB0EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6788CA5E-2BBE-4917-8B8F-F1C666FB0EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A5009F-7F56-447E-A3D9-3BA47A022C48}
+	EndGlobalSection
+EndGlobal

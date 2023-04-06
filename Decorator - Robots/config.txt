@@ -1,0 +1,3 @@
+﻿health=80
+attack=15
+price=20
